@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anujsharmatechnical
 - 👀 I’m interested in web-development and designing
 - 🌱 I’m currently learning ...reactjs 
-- 💞️ I’m looking to collaborate on pojects which i am getting through upwork
+- 💞️ I’m looking to collaborate on projects which i am getting through upwork
 - 📫 How to reach me ...7837819360(anuj19sharma29@gmail.com)
 
 <!---
